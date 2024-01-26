@@ -10,7 +10,7 @@ import tkinter.messagebox
 import pyttsx3
 import os
 
-LARGEFONT =("Pristina", 30)
+LARGEFONT = ("Pristina", 30)
 SMALLFONT = ("Verdana",12)
 
 genai.configure(api_key="YOUR_API_KEY")
