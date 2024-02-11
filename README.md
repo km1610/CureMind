@@ -1,4 +1,4 @@
-# CureMind
+# CureMind - Mental Health Support Bot
 
 Welcome to CureMind - Taking a deep breath for mental clarity.
 
